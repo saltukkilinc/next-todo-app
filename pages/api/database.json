@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "id": 1675432816962,
+            "title": "React öğreneceğim",
+            "checked": true,
+            "pinned": false
+        },
+        {
+            "id": 1675432826687,
+            "title": "Next js öğreneceğim",
+            "checked": false,
+            "pinned": false
+        },
+        {
+            "id": 1675432845703,
+            "title": "Frontend Developer olacağım",
+            "checked": false,
+            "pinned": true
+        }
+    ]
+}
